@@ -1,0 +1,10 @@
+modLoader = "lowcodefml"
+loaderVersion = "[46,)"
+license = "GNU AGPL 3.0"
+[[mods]]
+modId = "guigraphicsgetter"
+version = "${file.jarVersion}"
+displayName = "GuiGraphicsGetter"
+authors = "Tapio"
+displayTest = "IGNORE_ALL_VERSION"
+description = "Expose the GuiGraphics in the minecraft instance"
